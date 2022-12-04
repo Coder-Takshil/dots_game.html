@@ -1,0 +1,3 @@
+# dots_game.html
+It is just a time pass game developed by me in html for a little fun during my ultra-boring computer lectures on Microsoft™ Excel during my mid 8th grades...
+Have Fun! and mind liking the project or fork and do some more changes and recommend me in the issues page, will be happy to edit
